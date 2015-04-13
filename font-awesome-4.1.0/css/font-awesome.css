@@ -77,7 +77,7 @@
 .fa.pull-right {
   margin-left: .3em;
 }
-.fa-spin {
+.fa-spin:hover {
   -webkit-animation: spin 2s infinite linear;
   -moz-animation: spin 2s infinite linear;
   -o-animation: spin 2s infinite linear;
