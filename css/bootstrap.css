@@ -264,6 +264,7 @@ th {
 #small-print {
   font-size: 10px;
   font-style: italic;
+  color: Black;
 }
 
 @font-face {
